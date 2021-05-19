@@ -5,8 +5,11 @@
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCsi4aCI975CjjZaLJYx7Wtw)
 - 🤔 I’m looking for help with Flask Architecture
 - 💬 Ask me about [Vuejs](https://vuejs.org/)
-- 📫 How to reach me: walter.h.clayton@gmail.com
 - ⚡ Fun fact: chocoholic 🍫
+- 📫 How to reach me: walter.h.clayton@gmail.com
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Current skills...
 <img align="left" width="94" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -30,10 +33,6 @@
 ![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
