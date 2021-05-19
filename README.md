@@ -11,7 +11,7 @@
 ### Current skills...
 <img align="left" width="94" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 [![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
