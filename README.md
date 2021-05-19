@@ -7,6 +7,7 @@
 - 💬 Ask me about [Vuejs](https://vuejs.org/)
 - ⚡ Fun fact: chocoholic 🍫
 - 📫 How to reach me: walter.h.clayton@gmail.com
+
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
