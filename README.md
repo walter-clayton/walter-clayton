@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: walter.h.clayton@gmail.com
 - ⚡ Fun fact: chocoholic 🍫
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=walter-clayton)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats)
