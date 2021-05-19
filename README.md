@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Finlight
 - 🌱 I’m currently learning Flask 2.0
-- 👯 I’m looking to collaborate on YouTube
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCsi4aCI975CjjZaLJYx7Wtw)
 - 🤔 I’m looking for help with Flask Architecture
 - 💬 Ask me about Vuejs
 - 📫 How to reach me: walter.h.clayton@gmail.com
