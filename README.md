@@ -16,9 +16,14 @@
 <img align="left" width="128" height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" width="82.5" height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+
 ### A few stats for you...
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=walter-clayton)
+
+<img align="left" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats">
+<img align="left" width="300" height="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats">
+<img align="left" width="495" height="320" src="https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats)
 
