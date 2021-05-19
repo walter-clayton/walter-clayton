@@ -24,6 +24,3 @@
 <img align="left" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats">
 
 [![walter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats)
-
