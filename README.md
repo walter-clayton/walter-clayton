@@ -6,9 +6,7 @@
 - 🤔 I’m looking for help with Flask Architecture
 - 💬 Ask me about [Vuejs](https://vuejs.org/)
 - ⚡ Fun fact: chocoholic 🍫
-- 📫 How to reach me: walter.h.clayton@gmail.com
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 How to reach me: ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Current skills...
 <img align="left" width="94" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
