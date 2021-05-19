@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
