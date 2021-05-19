@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Finlight
-- 🌱 I’m currently learning Flask 2.0
+- 🔭 I’m currently working on [Finlight](https://www.finlight.com/)
+- 🌱 I’m currently learning [Flask 2.0](https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCsi4aCI975CjjZaLJYx7Wtw)
 - 🤔 I’m looking for help with Flask Architecture
-- 💬 Ask me about Vuejs
+- 💬 Ask me about [Vuejs](https://vuejs.org/)
 - 📫 How to reach me: walter.h.clayton@gmail.com
 - ⚡ Fun fact: chocoholic 🍫
 
