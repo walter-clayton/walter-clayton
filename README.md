@@ -15,7 +15,7 @@
 <img align="left" width="80.5" height="28" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img align="left" width="128" height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" width="82.5" height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
+<br>
 
 ### A few stats for you...
 
@@ -23,6 +23,7 @@
 
 <img align="left" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats">
 
+[![walter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-clayton)](https://github.com/walter-clayton/github-readme-stats)
 
-[![walter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
