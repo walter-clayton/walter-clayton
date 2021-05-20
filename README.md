@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![logo](ezgif.com-gif-maker.gif)
 
 
 - 🔭 I’m currently working on [Finlight](https://www.finlight.com/)
