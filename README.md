@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 - 🔭 I’m currently working on [Finlight](https://www.finlight.com/)
 - 🌱 I’m currently learning [Flask 2.0](https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0)
