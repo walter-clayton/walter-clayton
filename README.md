@@ -2,7 +2,7 @@
 ![logo](ezgif.com-gif-maker.gif)
 
 
-- 🔭 I’m currently working on [Finlight](https://www.finlight.com/)
+- 🔭 I’m currently working on Afitpilot
 - 🌱 I’m currently learning [Flask 2.0](https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCsi4aCI975CjjZaLJYx7Wtw)
 - 🤔 I’m looking for help with Flask Architecture
