@@ -22,3 +22,4 @@
 <img align="left" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true)](https://github.com/walter-clayton/github-readme-stats">
 
 [![walter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=walter-clayton)](https://git.io/streak-stats)
