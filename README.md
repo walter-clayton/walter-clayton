@@ -1,19 +1,9 @@
 ### Walter Clayton
-![logo](ezgif.com-gif-maker.gif)
 
-
-- 📚 I’m currently studying WEB3
-- 💻 I’m looking to develop the WEB3 space
+- 📚 I’m currently working on Afitpilot 4.00 (2025)
 - 🗂 Portfolio on [Walter Clayton](https://www.walterclayton.com/)
+- My personal projects [Akwanza](https://www.akwanza.com/) and [Afitpilot](https://www.afitpilot.com/)
 - 📫 How to reach me: walter.h.clayton@gmail.com
-
-### Current skills...
-<img align="left" width="124" height="28" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="left" width="124" height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="left" width="85" height="28" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=react&logoColor=4FC08D">
-<img align="left" width="124" height="28" src="https://img.shields.io/badge/Wordpress-316192?style=for-the-badge&logo=wp&logoColor=white">
-<img align="left" width="85" height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<br>
 
 ### A few stats for you...
 
