@@ -83,7 +83,7 @@
 
 ### ⚡ Fun Facts
 
-- I can sprint faster than most developers and code cleaner than most sprinters.
+- Most of my ideas come while walking, training, or watering plants — not while coding.
 - Duolingo Spanish streak: Day 50+ 🇪🇸 add me --> walthedude
 - Obsessive about clarity — but I still nap through existential dread.
 
