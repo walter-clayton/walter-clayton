@@ -1,23 +1,35 @@
 <h1 align="center">Walter Clayton</h1>
 
 <p align="center">
-  🚀 I’m currently building <strong>Afitpilot 4.00 (2025)</strong> — an adaptive AI coaching system for athletes.
+  🔥 Vision-first builder exploring the intersection of sports science, design, and AI.
 </p>
 
 <p align="center">
   <a href="https://www.walterclayton.com/">🌍 Portfolio</a> · 
   <a href="https://www.akwanza.com/">🦁 Akwanza</a> · 
   <a href="https://www.afitpilot.com/">🏋️ Afitpilot</a> · 
-  📬 Reach me: walter.h.clayton@gmail.com
+  📬 walter.h.clayton@gmail.com
 </p>
 
 ---
 
-### 🧠 About Me
+### 🔧 What I'm Building
 
-- 🎯 Vision-first builder with a hybrid background in sports science and software.
-- 🌱 Exploring local LLMs, adaptive training systems, and AI x performance.
-- 🛠️ Currently testing the Afitpilot MVP with real athletes.
+- 🧠 **Afitpilot** – AI-powered adaptive coaching system for competitive athletes, blending local LLMs with performance science.
+- 🌍 **Akwanza** – A design movement rooted in Afro-spiritual aesthetics, nature, and timeless symbols.
+- 🧪 Currently experimenting with prompt templating + local LLMs (Nous-Hermes, Deepseek, etc.) for resilient edge-case planning.
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-7B16FF?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
@@ -50,6 +62,30 @@
 <p align="center">
   <img src="https://wakatime.com/share/@walthedude/91acb41a-26c7-4410-a97c-9f8914189c03.svg" width="700px" alt="WakaTime Weekly Project Timeline" />
 </p>
+
+---
+
+### ✍️ Writings
+
+- 📓 [Local LLMs & Their Limitations in Adaptive Coaching](https://blog.walterclayton.com/local-llms-limitations-adaptive-coaching/)
+- 🧠 [Why Cursor + Claude 3.7 Gets Stuck on One File (and How to Fix It)](https://blog.walterclayton.com/why-cursor-claude-3-7-sonnet-gets-stuck-on-one-file-and-how-to-fix-it/)
+- 🤖 [Cursor: The AI-Powered Coding Assistant That Changed How I Work (But Not Without Its Flaws)](https://blog.walterclayton.com/cursor-the-ai-powered-coding-assistant-that-changed-how-i-work-but-not-without-its-flawswhat-i-have-learned-working-with-cursor/)
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/walter-clayton-2b50b4191/)
+- 📸 [Instagram – Akwanza](https://www.instagram.com/akwanzaofficial/)
+- 🌱 I occasionally mentor builders working on high-agency projects — reach out if you’re doing something meaningful.
+
+---
+
+### ⚡ Fun Facts
+
+- I can sprint faster than most developers and code cleaner than most sprinters.
+- Duolingo Spanish streak: Day 50+ 🇪🇸 add me --> walthedude
+- Obsessive about clarity — but I still nap through existential dread.
 
 ---
 
