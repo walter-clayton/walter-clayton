@@ -13,4 +13,7 @@
 
 [![walter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walthedude)](https://github.com/walter-clayton/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=walter-clayton)](https://git.io/streak-stats)
-![WakaTime Stats](https://wakatime.com/share/@walthedude/0236c843-abcb-4da5-aa4a-d2dc0e0c1b1e.svg)
+<p align="center">
+  <img src="https://wakatime.com/share/@walthedude/0236c843-abcb-4da5-aa4a-d2dc0e0c1b1e.svg" width="400px" />
+</p>
+
