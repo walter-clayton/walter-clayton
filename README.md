@@ -84,7 +84,7 @@
 ### ⚡ Fun Facts
 
 - Most of my ideas come while walking, training, or watering plants — not while coding.
-- Duolingo Spanish streak: Day 100+ 🇪🇸 add me --> walthedude
+- Duolingo Spanish streak: Day 200+ 🇪🇸 add me --> walthedude
 - Obsessive about clarity — but I still nap through existential dread.
 
 ---
