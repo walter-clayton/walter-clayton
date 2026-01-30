@@ -46,16 +46,9 @@
 ### 📊 Activity Snapshot
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=walter-clayton&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=walthedude&layout=compact&theme=radical" alt="Wakatime Weekly Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=walter-clayton&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
