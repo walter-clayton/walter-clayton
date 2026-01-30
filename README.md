@@ -80,7 +80,7 @@ I write publicly about the real limits of AI systems, LLM tooling, and why most 
 ### 🤝 Let’s Connect
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/walter-clayton-2b50b4191/)
-- 📸 [Instagram – Akwanza](https://www.instagram.com/akwanzaofficial/)
+- 📸 [Instagram – Afitpilot](https://www.instagram.com/afitpilot/)
 - 🌱 I selectively mentor builders working on high-agency, non-BS projects.  
   If you’re building something real, you’ll know whether to reach out.
 
