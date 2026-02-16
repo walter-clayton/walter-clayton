@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 Activity Snapshot
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
----
-
 ### ✍️ Writings
 
 I write publicly about the real limits of AI systems, LLM tooling, and why most “AI coaching” products fail in practice.
@@ -82,7 +73,7 @@ I write publicly about the real limits of AI systems, LLM tooling, and why most 
 ### ⚡ Fun Facts
 
 - Most of my ideas come while walking, training, or watering plants — not while coding.
-- Duolingo Spanish streak: Day 200+ 🇪🇸 add me → walthedude
+- Duolingo Spanish streak: Day 300+ 🇪🇸 add me → walthedude
 - Obsessive about clarity — but I still nap through existential dread.
 
 <p align="center">
